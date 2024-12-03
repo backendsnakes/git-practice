@@ -1,5 +1,9 @@
 # git-practice
 
+## About
+
+Example project
+
 ## Usage
 
 ```bash
