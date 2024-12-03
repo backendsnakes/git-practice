@@ -3,4 +3,4 @@ def test_all_good():
 
 
 def wrong_test():
-    assert False
+    assert True == False
