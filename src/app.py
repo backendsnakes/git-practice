@@ -1,2 +1,2 @@
-def func_with_typo():
-    print("eHllo, world!")
+def func_with_typo(arg):
+    print("eHllo, world! Argument: ", arg)
